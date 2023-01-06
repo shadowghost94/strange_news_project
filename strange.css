@@ -1,0 +1,25 @@
+body{
+
+}
+nav{
+	text-align: center;
+	background-color: #2C2119;
+	height: 50px;
+}
+nav li{
+	list-style-type: none;
+	display: inline-block;
+	margin-top: 50%;
+}
+#lagauche{
+	float: left;
+	width: 70%;
+}
+
+#ladroite{
+	float: right;
+}
+
+#pic1{width: 100%;}
+#pic2{width: 100%;}
+#pic3{width: 100%;}
