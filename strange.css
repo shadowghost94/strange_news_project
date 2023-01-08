@@ -1,23 +1,48 @@
+h1{
+	color: yellow;
+	text-align: center;
+	font-size: 400%;
+}
 body{
-
+	background-color: #2C2119;
 }
 nav{
 	text-align: center;
-	background-color: #2C2119;
+	background-color: #403131;
 	height: 50px;
+}
+.clear{
+	clear: both;
+}
+nav a{
+	color: yellow;
+	font-size: 22px;
+	text-decoration: none;
 }
 nav li{
 	list-style-type: none;
 	display: inline-block;
-	margin-top: 50%;
+	margin-top: 2%;
+	margin-left: 2%;
+}
+#article1{
+	background-color: #4E3628;
+	padding: 10px 10px 10px 10px;
+}
+#article2{
+	background-color: #4E3628;
+}
+#article3{
+	background-color: #4E3628;
 }
 #lagauche{
 	float: left;
-	width: 70%;
+	width: 67%;
 }
 
 #ladroite{
 	float: right;
+	width: 30%;
 }
 
 #pic1{width: 100%;}
