@@ -86,4 +86,8 @@ aside h2{
 	text-align: left;
 	font-size: 100%;
 	}
+
+	nav a{
+		font-size: 12px;
+	}
 }
