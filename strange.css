@@ -79,3 +79,11 @@ aside h2{
 #pic1{width: 100%;}
 #pic2{width: 100%;}
 #pic3{width: 100%;}
+
+@media only screen and (max-width: 480px){
+	h1{
+	color: yellow;
+	text-align: left;
+	font-size: 100%;
+	}
+}
